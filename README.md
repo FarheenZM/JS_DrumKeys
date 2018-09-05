@@ -1,6 +1,6 @@
 # JS_DrumKeys
 
-Create a page that shows different Drum keys & pressing keys plays the corresponding sound. This is done by invoking JS from script tag in the html
+A page that shows different Drum keys & pressing keys plays the corresponding sound. This is done by invoking JS from script tag in the html
 
 ![Screenshot](images/SS.png)
 
